@@ -1,0 +1,10 @@
+# ignore files with no extension
+*
+!*/
+!*.*
+
+# ignore all .class files
+*.class
+
+# ignote all text files
+*.txt
